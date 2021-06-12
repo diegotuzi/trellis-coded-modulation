@@ -1,0 +1,14 @@
+START TIME:			22-05-2013 15:16:04
+
+SNR(dB)				BER_UNCODED		BER_TCM			DURATION
+{Error using <a href="matlab:helpUtils.errorDocCallback('load_system', 'C:\Program Files\MATLAB\R2012a\toolbox\simulink\simulink\load_system.m', 21)" style="font-weight:bold">load_system</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2012a\toolbox\simulink\simulink\load_system.m',21,0)">line 21</a>)
+File 'C:\Users\Diego\Dropbox\Laerte\MCTN_LAB\project_tuzi_saliai\model\TCM8AMPM_4QAM.mdl'
+does not contain a valid Simulink model
+
+Error in <a href="matlab:helpUtils.errorDocCallback('tcm_qam', 'C:\Users\Diego\Dropbox\Laerte\MCTN_LAB\project_tuzi_saliai\function\tcm_qam.m', 107)" style="font-weight:bold">tcm_qam</a> (<a href="matlab: opentoline('C:\Users\Diego\Dropbox\Laerte\MCTN_LAB\project_tuzi_saliai\function\tcm_qam.m',107,0)">line 107</a>)
+        load_system(mdl_name);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('start_sim', 'C:\Users\Diego\Dropbox\Laerte\MCTN_LAB\project_tuzi_saliai\start_sim.m', 14)" style="font-weight:bold">start_sim</a> (<a href="matlab: opentoline('C:\Users\Diego\Dropbox\Laerte\MCTN_LAB\project_tuzi_saliai\start_sim.m',14,0)">line 14</a>)
+tcm_qam(register_length,BER_th,2,snr_start,snr_step);
+} 
+start_sim

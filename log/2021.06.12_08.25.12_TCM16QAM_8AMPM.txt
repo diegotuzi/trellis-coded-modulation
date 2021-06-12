@@ -1,0 +1,26 @@
+START TIME:			12-06-2021 08:25:12
+
+SNR(dB)				BER_UNCODED		BER_TCM			DURATION
+  0.0				3.0e-01			4.0e-01			0h 0m 14.32s
+  1.0				2.7e-01			3.8e-01			0h 0m 0.85s
+  2.0				2.5e-01			3.7e-01			0h 0m 0.57s
+  3.0				2.2e-01			3.6e-01			0h 0m 0.69s
+  4.0				1.9e-01			3.5e-01			0h 0m 0.68s
+  5.0				1.6e-01			3.3e-01			0h 0m 0.51s
+  6.0				1.3e-01			3.0e-01			0h 0m 0.50s
+  7.0				1.0e-01			2.7e-01			0h 0m 0.52s
+  8.0				7.3e-02			2.1e-01			0h 0m 0.51s
+  9.0				4.8e-02			1.0e-01			0h 0m 0.82s
+ 10.0				2.9e-02			2.2e-02			0h 0m 0.52s
+ 11.0				1.6e-02			2.4e-03			0h 0m 0.70s
+ 12.0				6.5e-03			3.0e-04			0h 0m 0.98s
+ 13.0				2.9e-03			0.0e+00			0h 0m 0.82s
+ 14.0				9.0e-04			0.0e+00			0h 0m 0.96s
+
+STOP TIME:			12-06-2021 08:25:36
+DURATION:			0h 0m 23.96s
+
+Results saved in data\TCM16QAM_8AMPM_sim_result.mat
+A copy of the original file "TCM16QAM_8AMPM.mdl" has been created because it was last saved in an earlier version of Simulink. To recover the original version, rename the file "TCM16QAM_8AMPM.mdl.r2012a" as "TCM16QAM_8AMPM.mdl".
+
+You can turn this feature off using the <a href="matlab:slprivate('showprefs')">Simulink Preferences</a>. Click <a href="matlab:com.mathworks.services.Prefs.setBooleanPref('SimulinkShowPersistentBackupNotification',false)">here</a> if you don't want to see this message again.
